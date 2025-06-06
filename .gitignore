@@ -1,0 +1,43 @@
+# macOS system files
+.DS_Store
+.Trash
+
+# App/config directories
+.vscode/
+.docker/
+.npm/
+.quokka/
+.wallaby/
+.zsh_sessions/
+
+# Common user folders
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# History files
+.viminfo
+.lesshst
+.python_history
+
+# SSH keys
+.ssh/
+
+# Cache, state, runtime
+.cache/
+.local/share/
+.local/state/
+
+# Temp or recovery files
+*.swp
+*.swo
+*.tmp
+
+# dotfiles repo
+.dotfiles/
+.dotfiles-backup/
