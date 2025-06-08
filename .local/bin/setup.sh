@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Variables
-DOTFILES_REPO="git@github.com:siddeeqlaher/dotfiles.git"
+DOTFILES_REPO="https://github.com/siddeeqlaher/dotfiles.git"
 DOTFILES_DIR="$HOME/.dotfiles"
 
 # Function to run git commands inside the bare repo
